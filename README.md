@@ -1,10 +1,10 @@
-# 🎬 OTT Customer Support Assistant
+# Customer Support Assistant
 
-An AI-powered bilingual (English & Arabic) customer support system for OTT streaming platforms. Supports both text chat and voice interaction, with conversation storage in SQLite and Google Sheets.
+An AI-powered bilingual (English & Arabic) customer support system for any platforms. Supports both text chat and voice interaction, with conversation storage in SQLite and Google Sheets.
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Details |
 |---------|---------|
@@ -17,7 +17,7 @@ An AI-powered bilingual (English & Arabic) customer support system for OTT strea
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 ott-support/
@@ -42,7 +42,7 @@ ott-support/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone the repo
 ```bash
